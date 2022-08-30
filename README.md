@@ -3,7 +3,7 @@ Engineered a model that can classify between a Cat and a Dog. Deployed a model u
 
 * Designed an image recognition model that can classify between a cat and a dog. Developed an app using streamlit that takes the picture of a dog or cat as input and the ml model in the backend gives us the approrpiate classification.
 * Dataset - Part of a Kaggle Competition. The training archive contains 25,000 images of dogs and cats. Please check the data resources tab below.
-* Model - The major aim of in this project is to distinguish between a cat and a dog. Optimized a neural network model using Transfer Learning algorithm, making good use of a pre-trained model.
+* Model - The major aim in this project is to distinguish between a cat and a dog. Optimized a neural network model using Transfer Learning algorithm, making good use of a pre-trained model.
 
 ## Code and Resources Used ##
 **Python Version:** 3.10.5 <br />
