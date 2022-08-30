@@ -7,7 +7,7 @@ Engineered a model that can classify between a Cat and a Dog. Deployed a model u
 
 ## Code and Resources Used ##
 **Python Version:** 3.10.5 <br />
-**Packages:**  numpy, sklearn, matplotlib, PIL,tensorflow,tensorflow_hub,keras streamlit,webbrowser <br />
+**Packages:**  numpy, sklearn, matplotlib, PIL, tensorflow, tensorflow_hub, keras, streamlit, webbrowser <br />
 **For Web Framework Requirements:** _pip install -r requirements.txt_ <br />
 **Data Resources:** <https://www.kaggle.com/competitions/dogs-vs-cats/data> <br />
 **Pre-Trained Model:** MobileNet_model <https://tfhub.dev/google/tf2-preview/mobilenet_v2/feature_vector/4>
